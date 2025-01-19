@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "R Markdown Practice Exercise"
+author: "Pavan Narahari"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
